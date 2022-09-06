@@ -53,6 +53,8 @@ We declare this will be a function with `def`.
 
 Then we name the function. Notice the intention This decides what work to be done is in the function or not.
 
+Some function might take in data to do work on. This is passed inside of ().
+
 Example function : 
 ``` python
 def some_func():
