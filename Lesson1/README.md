@@ -2,25 +2,62 @@
 
 ## About
 
-- Variables
-- Conditionals
-- Functions
+Python is a very approachable programming language. 
+ The most important concept to understand first is that indention and white space is used as syntax. What this means is that the indention you use must be consistent.
+
+ Most other languages use symbolic syntax. Like javascript and curly braces.
+
+ ```python
+ def example:
+    return "I did a thing"
+```
+
+```javascript
+function example(){
+    return "I did a thing"
+}
+```
+
+in python the white space before the return tells the us this is in the function
+I js the return is inside opening and closing curly braces to let us know.
+
+we also use the basics of modern programing
+
+- Variables: values stored to be used later
+- Conditionals: statements to be evaluated like "if"
+- Functions - blocks of code to do work. usually repeatable work.
 
 ## Setting Variables
 
 When we need to store a variable it's as easy as:
 
-`variable = 2`
+``` python
+variable = 2
+```
 
 ## Variable Data
 
 Data comes in many types:
 
-- stings
-- numbers
--  lists
-- dictionaries
+- stings: my_variable = "I am a sting of letters 
+- numbers: my_variable = 123
+- lists: my_variable = ["list", "of", "words]
+- dictionaries: my_variable = {"key": "value"}
+- boolean: my_variable = True
 
 ## Functions
 
-See this in action in basics.py
+function are a block of code that does some work to return a value
+
+We declare this will be a function with `def`.
+
+Then we name the function. Notice the intention This decides what work to be done is in the function or not.
+
+Example function : 
+``` python
+def some_func():
+    return "some work"
+```
+with just this much we can start programming in python. Everything else is mostly building on these and learning patterns and concepts for efficient use.
+
+See all this in action in basics.py
