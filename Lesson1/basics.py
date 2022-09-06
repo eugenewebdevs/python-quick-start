@@ -17,3 +17,5 @@ if sentence:
     
     # run a function with an argument
     print(some_work)
+else:
+    print("naw")
