@@ -29,7 +29,7 @@ we also use the basics of modern programing
 
 ## Setting Variables
 
-Variables have several types and rules to declaring them. Some don't need anything areound them like numbers others need characters like dictionaries {}. See examples below.
+Variables have several types and rules to declaring them. Some don't need anything around them like numbers others need characters like dictionaries {}. See examples below.
 
 When we need to store a variable it's as easy as:
 
@@ -37,7 +37,7 @@ When we need to store a variable it's as easy as:
 my_variable = 2
 ```
 
-Now we have stored the variebl my_variable as the value of the number 2.
+Now we have stored the variable my_variable as the value of the number 2.
 
 NOTE: It is important to notice the our variable is set to 2 and not "2".
 
