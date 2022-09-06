@@ -2,7 +2,7 @@
 
 ## About
 
-This is a quick course on python. The goal is to learn some basics in about a couple hours.
+This is a (very) quick course on python. The goal is to learn some basics in about a couple hours.
 
 In this course will only be running single files. As applications get complicated there will be more files involved.
 
@@ -36,5 +36,20 @@ To Run a python file we can run the hello.py file in this repo
 ## Git
 
 In order to test we will using version control. This will be git.
+
+git is a tool to work on local and push up to a remote centralized source of truth.
+
+Learning git is an important skill for software development but here we will be using it as a remote submission and even then only if needed.
+
+Sample commands:
+
+- git clone - downloads a repository
+- git add - add files you have changed to the staging
+- git commit - commit staged files
+- git push - push committed files to a repository
+
+There is a lot more but this is just away tyo bry  yhe files you have been working on to the source of truth. Pushing these files makes the changes available to others also working in the repository
+
+
 
 
