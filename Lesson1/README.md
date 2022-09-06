@@ -68,6 +68,6 @@ Example function :
 def some_func():
     return "some work"
 ```
-with just this much we can start programming in python. Everything else is mostly building on these and learning patterns and concepts for efficient use.
+With just this much we can start programming in python. Everything else is mostly building on these and learning patterns and concepts for efficient use.
 
 See all this in action in basics.py
