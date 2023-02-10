@@ -37,7 +37,7 @@ To Run a python file we can run the hello.py file in this repo
 
 In order to test we will using version control. This will be git.
 
-git is a tool to work on local and push up to a remote centralized source of truth.
+git is a tool to collaborate on code. We work on our personal machines and push up code to a "remote centralized source of truth" for example Github.
 
 Learning git is an important skill for software development but here we will be using it as a remote submission and even then only if needed.
 
@@ -48,7 +48,7 @@ Sample commands:
 - git commit - commit staged files
 - git push - push committed files to a repository
 
-There is a lot more but this is just away tyo bry  yhe files you have been working on to the source of truth. Pushing these files makes the changes available to others also working in the repository
+There is a lot more but this is just a way to bring the files you have been working on to the source of truth. Pushing these files makes the changes available to others also working in the repository
 
 
 
