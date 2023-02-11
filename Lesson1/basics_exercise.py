@@ -1,4 +1,6 @@
-## Create your own basics file with some basic math
+# Create your own basics file with some basic math
+
+# Basics exercise: https://www.mycompiler.io/view/K8ZhHX8Hkku
 
 
 # Add a variable named with a number value

@@ -2,24 +2,41 @@
 
 ## About
 
-This is a (very) quick course on python. The goal is to learn some basics in about a couple hours.
+This is a (very) quick course on python. The goal is to learn some basics in about a couple hours. This is NOT 
+the best way to learn python if you are looking to write professional production python. This is a more simple approach meant for those creating basic instructional scripting.
 
-In this course will only be running single files. As applications get complicated there will be more files involved.
+In this course will only be running single files. As applications get complicated there will be more files involved. Remember this is a skill, and you're not supposed to get this overnight. people make careers from years of experiences with this knowledge. Take your time.
 
-## Required
+Some terms that are important:
 
-- python3 installed: https://www.python.org/downloads/
-- text editor: https://code.visualstudio.com/download
-- git: https://git-scm.com/download/mac or https://git-scm.com/download/win
-
+- local: This is your computer
 
 ## Use
 
-For this course we will be using the command line to run our python.
+### Online
 
-This is Terminal in mac and some other thing in Win.
+We can run any of the code in this course online. You don't have to install anything. Just visit provided links and hit run.
+
+[Online - hello.py](https://www.mycompiler.io/view/DAzSLjGr0mH)
+
+You can run any of ths code on your machine as well.
+
+Success will print out `[Execution complete with exit code 0]`.
+
+If there is an error with the code, a description of the error and a differing code will be printed out.
 
 ### In Command Line
+
+##### Local installs
+
+- python3 installed: https://www.python.org/downloads/
+- text editor: https://code.visualstudio.com/download
+
+On your machine we will be using the command line to run our python.
+
+This is Terminal in mac and some other thing in Win(I don't have a windows machine... ¯\_(ツ)_/¯ ).
+
+(what is this? add hacker joke here)
 
 Verify python is installed in command line run: 
 
@@ -32,23 +49,6 @@ Should return something like:
 To Run a python file we can run the hello.py file in this repo
 
 `python3 hello.py`
-
-## Git
-
-In order to test we will using version control. This will be git.
-
-git is a tool to collaborate on code. We work on our personal machines and push up code to a "remote centralized source of truth" for example Github.
-
-Learning git is an important skill for software development but here we will be using it as a remote submission and even then only if needed.
-
-Sample commands:
-
-- git clone - downloads a repository
-- git add - add files you have changed to the staging
-- git commit - commit staged files
-- git push - push committed files to a repository
-
-There is a lot more but this is just a way to bring the files you have been working on to the source of truth. Pushing these files makes the changes available to others also working in the repository
 
 
 

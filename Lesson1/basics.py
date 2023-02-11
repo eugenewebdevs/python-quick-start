@@ -3,8 +3,9 @@
 
 
 # declare a variable
-sentence = True
+sentence = true
 
+# declare a function
 def my_function(data):
     return data + "!!!"
 
@@ -18,4 +19,5 @@ if sentence:
     # run a function with an argument
     print(some_work)
 else:
+    # if the above if is false print naw
     print("naw")

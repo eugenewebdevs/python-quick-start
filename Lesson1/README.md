@@ -5,16 +5,16 @@
 Python is a very approachable programming language. 
 The most important concept to understand first is that indention and white space is used as syntax. What this means is that the indention you use must be consistent.
 
-Most other languages use symbolic syntax. Like javascript and curly braces.
+Most other languages use symbolic syntax. Like javascript and "squirrelly" braces.
 
  ``` python
  def example:
-    return "I did a thing"
+    return "I did a thing in python"
 ```
 
 ```javascript
 function example(){
-    return "I did a thing"
+    return "I did a thing javascript"
 }
 ```
 
@@ -71,3 +71,9 @@ def some_func():
 With just this much we can start programming in python. Everything else is mostly building on these and learning patterns and concepts for efficient use.
 
 See all this in action in basics.py
+
+[Online - basics](https://www.mycompiler.io/view/5SN5hOluQ6m)
+
+Write your own python based on the comments in basics_exercise.py
+
+[Online - basics_exercise](https://www.mycompiler.io/view/K8ZhHX8Hkku)
