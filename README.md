@@ -19,7 +19,7 @@ Slides: https://slides.com/antonioortega-1/python
 
 We can run any of the code in this course online. You don't have to install anything. 
 
-Create an account at (https://www.mycompiler)[https://www.mycompiler] to run code for free!
+Create an account at [https://www.mycompiler.io/](https://www.mycompiler.io/) to run code for free!
 
 Just visit provided links and hit run to execute the code, or "fork" (this means copy to your account )and update the code with your changes.
 
