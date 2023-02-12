@@ -32,7 +32,24 @@ There are many built in functions and a whole world of packages to help with dat
 ## Loops
 
 A basic loop is `for'
-This will be a for each item loop.
+This will be a for each item in the data given.
+
+Example:
+
+``` python
+# JSON string is our data
+data_string = '{"name": "Antonio", "age": 44}'
+data = json.loads(data_string)`
+for key in data:
+    #print each key and value
+    print(key)
+    print(data[key])
+```
+This will print:
+name
+Antonio
+age
+44
 
 
 
