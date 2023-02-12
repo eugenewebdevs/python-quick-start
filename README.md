@@ -15,7 +15,11 @@ Some terms that are important:
 
 ### Online
 
-We can run any of the code in this course online. You don't have to install anything. Just visit provided links and hit run.
+We can run any of the code in this course online. You don't have to install anything. 
+
+Create an account at (https://www.mycompiler)[https://www.mycompiler] to run code for free!
+
+Just visit provided links and hit run to execute the code, or click edit to change the code.
 
 [Online - hello.py](https://www.mycompiler.io/view/DAzSLjGr0mH)
 
