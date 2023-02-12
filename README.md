@@ -2,7 +2,7 @@
 
 ## About
 
-This is a (very) quick course on python. The goal is to learn some basics in about a couple hours. This is NOT 
+This is a (very) quick course on python. The goal is to learn some basics in about a like an hour. This is NOT 
 the best way to learn python if you are looking to write professional production python. This is a more simple approach meant for those creating basic instructional scripting for tools that accept python as instructions.
 
 In this course will only be running single files. As applications get complicated there will be more files involved. Remember this is a skill, and you're not supposed to get this overnight. people make careers from years of experiences with this knowledge. Take your time.
@@ -25,10 +25,11 @@ Just visit provided links and hit run to execute the code, or "fork" (this means
 
 [Online - hello.py](https://www.mycompiler.io/view/DAzSLjGr0mH)
 
-
 Success will have additional print out `[Execution complete with exit code 0]`.
 
 If there is an error with the code, a description of the error and a differing code will be printed out.
+
+All code: https://www.mycompiler.io/my-programs?q=tag%3Aquick-start
 
 ### In Command Line
 
