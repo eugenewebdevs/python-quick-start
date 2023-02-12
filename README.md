@@ -25,15 +25,16 @@ Just visit provided links and hit run to execute the code, or "fork" (this means
 
 [Online - hello.py](https://www.mycompiler.io/view/DAzSLjGr0mH)
 
-You can run any of ths code on your machine as well.
 
-Success will print out `[Execution complete with exit code 0]`.
+Success will have additional print out `[Execution complete with exit code 0]`.
 
 If there is an error with the code, a description of the error and a differing code will be printed out.
 
 ### In Command Line
 
 ##### Local installs
+
+You can run any of ths code on your machine as well.
 
 - python3 installed: https://www.python.org/downloads/
 - text editor: https://code.visualstudio.com/download
