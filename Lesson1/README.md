@@ -70,7 +70,11 @@ Failing example:
 print(5 * "3")
 ```
 
-This does not work because we are trying to multiply a number type and a string type.
+This does not work because we are trying to multiply a number type and a string type. To python this is kind of like saying:
+
+5 * three
+
+So it will fail as one of those values is not a number.
 
 ## Functions
 

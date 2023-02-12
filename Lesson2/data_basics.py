@@ -1,3 +1,4 @@
+# import a package
 import json
 
 # JSON string is our data
@@ -19,7 +20,7 @@ def calculate_age(age):
     years = 100 - age
     return years
 
-# pass in the age from the data to the function
+# pass in the age from the data to the function.
 years_to_go = calculate_age(antonio_age)
 
 # print out the results
