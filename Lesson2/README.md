@@ -29,11 +29,11 @@ data = json.loads(data_string)`
 
 There are many built in functions and a whole world of packages to help with data, math, etc...
 
-## Logical Operators
+## Loops
 
-- `and` 	Returns True if both statements are true. Example: `x < 5 and  x < 10	`
-- `or`	Returns True if one of the statements is true. Example: `x < 5 or x < 4	`
-- `not`: Reverse the result, returns False if the result is true. Example: `not(x < 5 and x < 10)`
+A basic loop is `for'
+This will be a for each item loop.
+
 
 
 
