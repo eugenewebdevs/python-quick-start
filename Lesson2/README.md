@@ -51,7 +51,4 @@ Antonio
 age
 44
 
-[Online data_basics.py](https://www.mycompiler.io/view/L57KQRkwinO)
-
-
-
+[Online - data_basics.py](https://www.mycompiler.io/view/L57KQRkwinO)
