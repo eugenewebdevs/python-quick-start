@@ -18,7 +18,7 @@ function example(){
 }
 ```
 
-in python the white space before the return tells the us this is in the function
+In python the white space before the return tells the us this is in the function
 I js the return is inside opening and closing curly braces to let us know.
 
 we also use the basics of modern programing
@@ -45,13 +45,32 @@ The first is a number and the other is a string.
 
 ## Variable Data
 
-Data comes in many types:
+Data comes in many types. Here are a few:
 
 - stings: my_variable = "I am a sting of letters"
 - numbers: my_variable = 123
 - lists: my_variable = ["list", "of", "words]
 - dictionaries: my_variable = {"key": "value"}
 - boolean: my_variable = True
+
+We can do basic math on numbers example:
+
+``` python
+print(5 + 3)
+print(5 - 3)
+print(5 * 3)
+print(12 / 3)
+```
+This is possible because these are all type of numbers.
+
+Be aware of the types you are using.
+
+Failing example:
+``` python
+print(5 * "3")
+```
+
+This does not work because we are trying to multiply a number type and a string type.
 
 ## Functions
 
