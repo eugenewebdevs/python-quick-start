@@ -6,17 +6,17 @@ data = {"products":[{"id":1,"title":"iPhone 9","description":"An apple mobile wh
 # get the first product and the id
 first_product_id = data['products'][0]['id']
 
-# types matter, we have to change the id which is a number to basestring
+# types matter, we have to change the id which is a number to string
 # then we can combine them into a sentence
 print("first product id: " + str(first_product_id))
 
 
 # Now we do have a lot of data we don't really need.
-# Let's preparre some useful data
+# Let's preparer some useful data
 
 useful_data = []
 
-# find the id of products that are in stock and comparing the price and currrent discount
+# find the id of products that are in stock and comparing the price and current discount
 # loop through all the products in the data
 for i in data['products']:
     
