@@ -51,4 +51,10 @@ Antonio
 age
 44
 
+
+## Code Online
+
 [Online - data_basics.py](https://www.mycompiler.io/view/L57KQRkwinO)
+
+[Online - data_basics_exercise.py](https://www.mycompiler.io/view/IcoPhRATPup)
+
