@@ -29,7 +29,7 @@ Success will have additional print out `[Execution complete with exit code 0]`.
 
 If there is an error with the code, a description of the error and a differing code will be printed out.
 
-All code: https://www.mycompiler.io/my-programs?q=tag%3Aquick-start
+All code online: https://www.mycompiler.io/my-programs?q=tag%3Aquick-start
 
 ### In Command Line
 
