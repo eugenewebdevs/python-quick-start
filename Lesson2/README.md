@@ -12,11 +12,11 @@ For example the key value data format of JSON.
 
 example: '{"name": "Antonio", "age": 44}'
 
-to read these key and value pairs we can import a package that is ready to help us extract data. We can simply bring in 
+to read these key and value pairs we can import a package that is ready to help us extract data. We can simply bring in the json package that is already included with python.
 
 `import json`
 
-and then start using the python built in functions.
+and then start using the python built in library functions.
 
 Example:
 ``` python
@@ -28,6 +28,10 @@ data = json.loads(data_string)`
 ```
 
 There are many built in functions and a whole world of packages to help with data, math, etc...
+
+Understanding these packages is important as there are my formats for sharing data.
+
+json, xml, csv, etc...
 
 ## Loops
 
