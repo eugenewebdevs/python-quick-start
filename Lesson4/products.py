@@ -16,14 +16,23 @@ print("first product id: " + str(first_product_id))
 
 useful_data = []
 
-
+# find the id of products that are in stock and comparing the price and currrent discount
+# loop through all the products in the data
 for i in data['products']:
+    
+    # create a new object and populate with only the data we want
     sale_products = {}
     sale_products['id'] = i['id']
     sale_products['price'] = i['price']
     sale_products['discountPercentage'] = i['discountPercentage']
     sale_products['stock'] = i['stock']
     
+    # add the data to a list for later
     useful_data.append(sale_products)
-  
+
+# loo at the data
 print(useful_data)
+
+# now that we have only the data we want
+# we could now compare the prices and discounts to share as an insight
+    
