@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # now we can access (and chain) functions in the library via dot notation
-# Below we employ the library functions style and use()
+# Below we employ the library functions style and use() passing an argument
 plt.style.use('_mpl-gallery-nogrid')
 
 # make data: correlated + noise

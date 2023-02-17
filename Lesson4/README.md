@@ -10,7 +10,8 @@ How you can leverage libraries to avoid "reinventing the wheel" in your scriptin
 
 ## Code Online
 
-[Online - shapes.py](https://www.mycompiler.io/view/FKDxgdZn5J4)
+- [Online - shapes.py](https://www.mycompiler.io/view/FKDxgdZn5J4)
+- [Online - shapes.py](https://www.mycompiler.io/edit/1hmnyNZ4ecp)
 
 
 ### Resources
