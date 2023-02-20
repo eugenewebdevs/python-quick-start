@@ -12,7 +12,11 @@ In this course will only be running single files. As applications get complicate
 
 Some terms that are important:
 
-- local: This is your computer
+- List: A built-in Python sequence. Despite its name it is more akin to an array in other languages.
+- local: This is your computer.
+- function: A series of statements which returns some value to a caller.
+
+Glossary: https://docs.python.org/3/glossary.html
 
 Slides: https://slides.com/antonioortega-1/python
 
