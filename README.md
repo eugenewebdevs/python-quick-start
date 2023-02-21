@@ -6,7 +6,9 @@ This is a (very) quick course on python. The goal is to learn some basics in abo
 
 This is NOT the best way to learn python if you are looking to write professional production python. 
 
-This is a more simple approach meant for those creating basic instructional scripting for tools that accept python as instructions.
+This is a more simple approach meant for those creating basic instructional scripting for tools that accept python as instruction.
+
+The power of scripting is scaling tasks. The repetitive and tedious tasks are perfect for machines. Not so much for humans. What could take a human hours to complete a machine can in seconds. This of course is dependant on clear precise instruction. This is where python comes in.
 
 In this course will only be running single files. As applications get complicated there will be more files involved. Remember this is a skill, and you're not supposed to get this overnight. people make careers from years of experiences with this knowledge. Take your time.
 
