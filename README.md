@@ -1,24 +1,28 @@
-# Python Fun
+# Python for non Programmer Professionals
 
-## About
+## Description
 
-This is a (very) quick course on python. The goal is to learn some basics in about a like an hour. 
+If you wanted to learn python to write scripts for use in your non programmer profession then this quick start workshop will get you on that path. This an hour workshop focused on just the very very basics of python. We will provide a small slide show and example code you a run and edit to help you get going. Programmers will also be on hand to answer any questions. This is not a start to programming in python as a profession, instead this is for non programming professionals that could use python in their professional tools.
+
+## All About
+
+This is a (very) quick course on python. The goal is to learn some basics in about a like an hour. ⏰
 
 This is NOT the best way to learn python if you are looking to write professional production python. 
 
-This is a more simple approach meant for those creating basic instructional scripting for tools that accept python as instruction.
+This is a more simple approach meant for those creating basic instructional scripting for tools that accept python as an instruction interface.
 
-The power of scripting is scaling tasks. The repetitive and tedious tasks are perfect for machines. Not so much for humans. What could take a human hours to complete a machine can in seconds. This of course is dependant on clear precise instruction. This is where python comes in.
+The power of scripting is scaling tasks. The repetitive and tedious tasks are perfect for machines. Not so much for humans. What could take a human hours to complete a machine can in seconds. This of course is dependant on clear precise instruction. This is where python comes in. 🐍
 
 In this course will only be running single files. As applications get complicated there will be more files involved. Remember this is a skill, and you're not supposed to get this overnight. people make careers from years of experiences with this knowledge. Take your time.
 
 Some terms that are important:
 
-- List: A built-in Python sequence. Despite its name it is more akin to an array in other languages.
-- local: This is your computer.
-- function: A series of statements which returns some value to a caller.
+- List: A built-in Python sequence. Despite its name it is more akin to an array in other languages. 📙
+- local: This is your computer. 💻 
+- function: A series of statements which returns some value to a caller. ⚙️
 
-Glossary: https://docs.python.org/3/glossary.html
+Full Glossary: https://docs.python.org/3/glossary.html
 
 Slides: https://slides.com/antonioortega-1/python
 
