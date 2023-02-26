@@ -54,7 +54,7 @@ On your machine we will be using the command line to run our python.
 
 This is Terminal in mac and some other thing in Win(I don't have a windows machine... ¯\_(ツ)_/¯ ).
 
-(what is this? add hacker joke here)
+(what is this? add hacker joke here)`
 
 Verify python is installed in command line run: 
 
@@ -72,6 +72,12 @@ To Run a python file we can run the hello.py file in this repo
 
 `python3 hello.py`
 
+
+## Additional resources
+
+More resources for learning python:
+
+https://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf
 
 
 
