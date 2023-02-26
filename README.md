@@ -34,7 +34,7 @@ We can run any of the code in this course online. You don't have to install anyt
 
 Create an account at [https://www.mycompiler.io/](https://www.mycompiler.io/) to run code for free!
 
-Just visit provided links and hit run to execute the code, or "fork" (this means copy to your account )and update the code with your changes.
+Just visit provided links and hit run to execute the code, or "fork" (this means copy to your account )and edit your copy the code with new changes.
 
 [Online - hello.py](https://www.mycompiler.io/view/DAzSLjGr0mH)
 
