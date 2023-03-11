@@ -62,6 +62,3 @@ To Run a python file we can run the hello.py file in this repo
 
 `python3 hello.py`
 
-
-
-

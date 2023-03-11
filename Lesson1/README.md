@@ -5,7 +5,7 @@
 Python is a very approachable programming language. 
 The most important concept to understand first is that indention and white space is used as syntax. What this means is that the indention you use must be consistent.
 
-Most other languages use symbolic syntax. Like javascript and "squirrelly" braces.
+Most other languages use symbolic syntax. Like javascript and the squirrelly braces (not their real name 🐿️).
 
  ``` python
  def example:
@@ -19,9 +19,9 @@ function example(){
 ```
 
 In python the white space before the return tells the us this is in the function
-I js the return is inside opening and closing curly braces to let us know.
+In javascript the return is inside opening and closing curly braces to let us know what is in the function..
 
-we also use the basics of modern programing
+we also use the basics of modern programming
 
 - Variables: values stored to be used later
 - Conditionals: statements to be evaluated like "if"
@@ -41,7 +41,7 @@ Now we have stored the variable my_variable as the value of the number 2.
 
 NOTE: It is important to notice the our variable is set to 2 and not "2".
 
-The first is a number and the other is a string.
+The 2 is a number and the "2" would be a string (like a letter in a word).
 
 ## Variable Data
 
