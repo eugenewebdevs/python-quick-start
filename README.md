@@ -72,15 +72,3 @@ To Run a python file we can run the hello.py file in this repo
 
 `python3 hello.py`
 
-<<<<<<< HEAD
-=======
-
-## Additional resources
-
-More resources for learning python:
-
-https://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf
-
-
-
->>>>>>> 05a08989e0904b4b6a78c5fb0de9fc0b3e7ade97

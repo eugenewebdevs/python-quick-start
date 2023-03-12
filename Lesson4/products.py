@@ -33,7 +33,7 @@ for i in data['products']:
     # add the data to a list for later
     useful_data.append(sale_products)
 
-# loo at the data
+# look at the data
 print(useful_data)
 
 # now that we have only the data we want
