@@ -1,5 +1,5 @@
 # We can import a package and give a shorter name.
-# plt is an example
+# plt is an example. This is now short for matplotlib.pyplot
 
 import matplotlib.pyplot as plt
 import numpy as np
