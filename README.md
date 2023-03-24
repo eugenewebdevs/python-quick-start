@@ -10,6 +10,7 @@ If you wanted to learn python to write scripts for use in your non programmer pr
 - https://www.learnpython.org/
 - https://www.youtube.com/watch?v=kqtD5dpn9C8
 - Eugene Tech Community(https://www.meetup.com/openeugene-eugenetech/)
+- https://chat.openai.com/auth/login
 - I can help: https://antonioortegajr.com
 
 ## All About
