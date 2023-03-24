@@ -24,7 +24,7 @@ Some terms that are important:
 
 Full Glossary: https://docs.python.org/3/glossary.html
 
-Slides: https://slides.com/antonioortega-1/python
+Slides: https://slides.com/d/2nWcHsk/live
 
 ## Use
 
