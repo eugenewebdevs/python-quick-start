@@ -12,4 +12,4 @@ Do as many or as few of these as you like.
 
 [Online - debug1.py](https://www.mycompiler.io/view/83TvolhqLxY)
 
-[Online - debug2py](https://www.mycompiler.io/view/IcoPhRATPup)
+[Online - debug2py](https://www.mycompiler.io/view/8nljEGPihJI)
