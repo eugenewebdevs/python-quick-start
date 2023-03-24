@@ -4,13 +4,13 @@
 
 If you wanted to learn python to write scripts for use in your non programmer profession then this quick start workshop will get you on that path. This an hour workshop focused on just the very very basics of python. We will provide a small slide show and example code you a run and edit to help you get going. Programmers will also be on hand to answer any questions. This is not a start to programming in python as a profession, instead this is for non programming professionals that could use python in their professional tools.
 
-## Learning Resources
+## Learning Resources for after this workshop
 
 - https://www.freecodecamp.org/learn/scientific-computing-with-python/
 - https://www.learnpython.org/
 - https://www.youtube.com/watch?v=kqtD5dpn9C8
 - Eugene Tech Community(https://www.meetup.com/openeugene-eugenetech/)
-- https://antonioortegajr.com
+- I can help: https://antonioortegajr.com
 
 ## All About
 
